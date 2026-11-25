@@ -1,0 +1,11 @@
+Model Information:
+* title:	Smeg Automatic Coffe Machine gltf
+* source:	https://sketchfab.com/3d-models/smeg-automatic-coffe-machine-gltf-4e2f800066d64fee9a4129d6c3850992
+* author:	idehn_3d (https://sketchfab.com/idehn_3d)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Smeg Automatic Coffe Machine gltf" (https://sketchfab.com/3d-models/smeg-automatic-coffe-machine-gltf-4e2f800066d64fee9a4129d6c3850992) by idehn_3d (https://sketchfab.com/idehn_3d) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
